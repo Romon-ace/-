@@ -1,0 +1,56 @@
+.top-one{
+	height: 100px;
+	width: 1920px;
+}
+.top-one-one{
+	height: 100px;
+	width: 1200px;
+	margin:0 auto;
+}
+.logo{
+	float: left;
+	margin-top: 33px;
+}
+.daohang{
+	float: left;
+	margin: 42px 79px;
+}
+.daohang li{
+	display: inline-block;
+	float: left;
+	width: 80px;
+	height: 42px;
+	text-align: center;
+}
+.first{
+	border-bottom: 1px solid #00A3FF;
+}
+.daohang li a{
+	color: #050505;
+}
+.form{
+	float: right;
+	margin-top: 31px;
+}
+.right1{
+	margin: 44px 31px;
+	float: left;
+	display: inline-block;
+}
+.right2{
+	color: #666666;
+}
+.search{
+	float: left;
+	width: 361px;
+	height: 40px;
+	border:1px solid rgba(0,164,255,1);
+	padding-left: 19px;
+}
+.submit{
+	float: left;
+	vertical-align: bottom;
+	border:1px solid rgba(0,164,255,1);
+	width: 50px;
+	height: 42px;
+}
